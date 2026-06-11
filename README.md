@@ -5,6 +5,7 @@ Primer examen practico - Análisis y Diseño de Algoritmos
 ## Integrantes
 - Laura Dayana Tascon 2438545
 - Enrique Lozano Abella 2436032
+- Daniel Escobar Escobar 2437924
 
 ## Descripción
 Solución a dos ejercicios de HackerRank como parte del 
