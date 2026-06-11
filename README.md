@@ -8,7 +8,7 @@ Primer examen practico - Análisis y Diseño de Algoritmos
 - Daniel Escobar Escobar 2437924
 
 ## Descripción
-Solución a dos ejercicios de HackerRank como parte del 
+Solución a tres ejercicios de HackerRank como parte del 
 primer examen práctico de Análisis y Diseño de Algoritmos.
 
 ## Ejercicios
@@ -25,8 +25,15 @@ primer examen práctico de Análisis y Diseño de Algoritmos.
 - Complejidad: O(n)
 - Link: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 
+### 3. Minimum Absolute Difference in an Array
+- Categoria: Greedy
+- Dificultad: Easy
+- Complejidad: O(n log n)
+- Link: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
+
 
 
 ## Resultados
 - Big Sorting → ✅ Accepted en HackerRank
 - HackerRank in a String → ✅ Accepted en HackerRank
+- Minimum Absolute Differencee in an Array → ✅ Accepted en HackerRank
